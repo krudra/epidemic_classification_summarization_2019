@@ -1,0 +1,6 @@
+disease_signs_or_symptoms
+disease_transmission
+prevention
+treatment
+deaths_reports
+not_related_or_irrelevant

@@ -1,0 +1,770 @@
+abdomen point tenderness
+abdominal bloating
+abdominal distention
+abdominal mass
+abdominal pain
+abdominal rigidity
+abnormal facial expressions
+abnormal heart rhythms
+abnormally colored urine
+about to black out
+abrasion
+absence of speech
+absent menstruation
+acalculia
+ache
+acne
+acrophobia
+adhd
+adult speech impairment
+agenesis
+aggressive behavior
+aging changes in the breast
+agitation
+agnosia
+agoraphobia
+aimless movement
+akathisia
+akinesia
+alcohol withdrawal
+alexia
+allergy
+alopecia
+altered mental status
+amaurosis fugax and amaurosis
+amenorrhea
+amusia
+anal itching
+anasarca
+anemia
+anhedonia
+anisocoria
+ankle pain
+ankle swelling
+anomia
+anorexia
+anosmia
+anosognosia
+anxiety
+aphasia
+apnea
+apraxia
+arachnophobia
+arm pain
+arrhythmia
+asthenia
+ataxia
+attention deficit
+autism
+aversion to drink
+aversion to food
+back pain
+bad breath
+bad taste in the mouth
+ballismus
+beau's lines
+bedwetting
+behavior disorder
+belching
+binge eating
+black eye
+blackheads
+bladder spasms
+blanching of skin
+bleeding
+bleeding gums
+bleeding into the skin
+blindness
+blister
+blisters
+bloating
+blood in semen
+blood in stool
+blood in the semen
+blood in urine
+blood tinged sputum
+blood-tinged sputum
+bloody nose
+bloody or tarry stools
+bloody show preceding onset of labour
+bloody sputum
+blue fingernails
+blue lips
+bluish skin discoloration
+blunted affect
+blurred vision
+boil
+bone loss
+bone pain
+bounding pulse
+bowel incontinence
+bradycardia
+bradykinesia
+bradypnea
+breast discharge
+breast enlargement in men
+breast lump
+breast lumps
+breast pain
+breathe normally
+breathing difficulties
+brittle nails
+bruises
+bruises easily
+bruising
+bulging eyes
+bulging fontanelles
+bumps on skin
+burning sensation
+burning urination
+bursitis
+buttock pain
+cachexia
+cardiovascular
+cataplexy
+catatonia
+catatonic behavior
+change in bowel habits
+chapped lips
+charley horse
+cheilitis
+chest pain
+chills
+choking adult
+choking child
+chorea
+chronic pain
+chronic pelvic pain
+clammy skin
+claudication
+claustrophobia
+claw foot
+claw hand
+cleft palate and lip
+cloudy urine
+clubbing of the fingers or toes
+clubfoot
+clumsiness
+coccydynia
+coffee ground vomitus
+cold
+cold feet
+cold fingers
+cold hands
+cold intolerance
+cold sores
+colic
+colles' wrist fracture
+color blindness
+coma
+communication skills and disorders
+concussion
+confusion
+consciousness decreased
+constipation
+contracture deformity
+convulsions
+corpus callosum
+cough
+coughing up blood
+creaking joints
+crying
+cuts and puncture wounds
+cyanosis
+cyst
+dalrymple's sign
+dark circles under the eyes
+dark colored stools
+dark urine
+decreased appetite
+decreased bone density
+decreased urine output
+deformity
+deformity of spine
+dehydration
+delayed growth
+delirium
+delusions
+dementia overview
+depigmentation of skin
+depression
+depression overview
+dermatitis
+dermatomal pain
+detrusor contraction
+developmental delay
+diaper rash
+diarrhea
+difficulty breathing
+difficulty concentrating
+difficulty urinating
+difficulty with speech
+difficulty with urination
+dilated pupils
+diogenes syndrome
+discharge
+discharge from penis
+disorder of sleep-wake cycle
+disorientation
+distended stomach
+distractibility
+dizziness
+dizzy
+double vision
+drainage of pus
+drooling
+drowsiness
+drug abuse
+drug overdose
+dry eye
+dry eyes
+dry hair
+dry mouth
+dry skin
+dub
+dysarthria
+dysdiadochokinesia
+dysfunctional uterine bleeding
+dysgraphia
+dyspareunia
+dyspepsia
+dysphagia
+dyspnea
+dystonia
+dysuria
+e. coli 0157:h7
+eaec
+eaggec
+ear discharge
+earache
+early satiety
+easy bruising
+echolalia
+edema
+ehec
+eiec
+elbow pain
+elbow pain and disorders
+electric tweaks
+electrical sensation
+emotional disorder
+enlarged heart
+enteroadherent e. coli
+enteroaggregative e. coli
+enterohemorrhagic e. coli
+enteroinvasive e. coli
+enteropathogenic e. coli
+enterotoxigenic e. coli
+enterovirus d68
+epec
+epistaxis
+erectile dysfunction overview
+erection problems
+eschar
+etec
+euphoria
+excessive hair in women
+excessive sweating
+excessive thirst
+excessive urination at night
+excessive urination volume
+excessive yawning
+exophthalmos
+external eyelid stye
+eye burning
+eye discharge
+eye floaters
+eye pain
+eye redness
+eye twitch
+eyelid twitch
+face pain
+facial swelling
+failure to thrive
+fainting
+fast heart rate
+fatigue
+fatigue and tiredness
+fecal incontinence
+feeding disorder of infancy
+feels hot to touch
+fever
+fidgeting
+finger pain
+first aid for unconsciousness
+flaky scalp
+flank pain
+flat affect
+flatulence
+floating stools
+flu
+fluctuating mood
+fluttering heart
+foot pain
+foot swelling
+foreign object in the eye
+foul smelling stools
+fracture
+frequent urination
+frontal bossing
+furuncle
+gas
+gas & flatulence
+gastrointestinal
+gastrointestinal bleeding
+generalized tonic-clonic seizure
+goiter
+gram stain of urethral discharge
+groin lump
+groin pain
+growth retardation
+guilt
+gynaecological
+gynecomastia
+haematemesis
+hair loss
+hairy tongue
+halitosis
+hallucination
+hallucinations
+hand numbness
+hand pain
+hand tremors
+hazy vision
+headache
+hear normally
+hearing loss
+hearing loss on one side
+heart murmurs and other sounds
+heart palpitations
+heart rate altered
+heartburn
+heat intolerance
+heavy menstrual periods
+heel pain
+hematochezia
+hematuria
+hemiballismus
+hemifacial microsomia
+hemolysis
+hemolytic anemia
+hemoptysis
+hiccups
+high blood pressure
+high pitched breath sounds
+hip pain
+hip stiff
+hirsutism
+hissing in ears
+hives
+hoarseness
+homicidal ideation
+hordeolum externum
+hot flashes
+hump behind the shoulders
+hyperactivity
+hyperelastic skin
+hypermobile joints
+hyperthermia
+hyperventilation
+hypotension
+hypothermia
+hypotonia
+hypoventilation
+impaired sensation
+impaired smell
+impaired taste
+impotence
+impulsivity
+inability to regulate emotions
+inattention
+incontinence, urine
+increased appetite
+indifferent mood
+indigestion
+infertility
+inflammation of the larynx
+insomnia
+integumentary
+intercostal retractions
+invaginated nipple
+inverted nipple
+irregular menstrual periods
+irritability
+itch
+itching
+jaundice
+jaw pain
+joint cracking
+joint deformity
+joint pain
+joint popping
+joint redness
+joint stiffness
+joint swelling
+joint warmth
+joints warm
+keratosis follicularis
+knee pain
+knee swelling
+koilonychia
+kyphosis
+labile mood
+labored breathing
+labour pains
+laceration
+lack of facial expressions
+lactose intolerance
+laryngitis
+lazy eye
+leg pain
+leg sores
+leg swelling
+lethargy
+lhermitte's sign
+light-headed
+lightheadedness
+limited range of motion
+limping
+lordosis
+loss of appetite
+loss of speech
+loss of taste sensation
+loss of temperature sensation
+loss of vision
+low grade fever
+low libido
+low t
+low testosterone
+low urine output
+lump or mass on gums
+lymph node swelling
+macrocephaly
+macule
+malaise
+mania
+melena
+memory loss
+menstrual cramps
+mental retardation
+metallic taste in the mouth
+microcephaly
+micrognathia
+miosis
+miscarriage
+missed menstrual period
+moist skin
+mood swings
+morning sickness
+motor tics
+mouth sores
+mouth ulcers
+move one side – arm and/or leg
+muscle atrophy
+muscle cramps
+muscle function loss
+muscle pain
+muscle rigidity
+muscle spasticity
+muscle stiffness
+muscle twitching
+muscle weakness
+mutism
+myalgia
+mydriasis
+nail abnormalities
+nail clubbing
+nail discoloration
+nail pitting
+nail separation
+nasal congestion
+nasal flaring
+nausea
+nausea & vomitting
+nauseated
+neck lump
+neck pain
+neglecting oneself
+neonatal jaundice
+neurological
+night blindness
+nightmares
+nipple inversion
+nipple retraction
+no menstruation
+nocturia
+nose injury
+nsteady gait
+numbness
+numbness and tingling
+numbness fingers
+numbness in tongue
+numbness of foot
+numbness of limbs
+numbness toes
+nystagmus
+obesity
+obstetric
+ocular
+odynophagia
+onychorrhexis
+ophthalmoplegia
+opisthotonos
+osteopenia
+otalgia
+overactive bladder
+pain
+pain in the penis
+pain in urethra
+painful gums
+painful intercourse
+painful menstrual periods
+painful respiration
+painful urination
+pale or clay-colored stools
+pale skin
+paleness
+palpitation
+palpitations
+papule
+paralysis
+paranoia
+paresthesia
+pass a bowel action normally
+pass urine normally
+patchy skin color
+pectus excavatum
+peeling skin
+pelvic pain
+penile discharge
+penile itching
+penile pain
+penis pain
+perfectionism
+peripheral cyanosis
+peripheral neuropathy
+persecution
+pes planus
+phobia
+photophobia
+photosensitivity
+pica
+pink eye
+pleurisy
+pleuritic chest pain
+polyuria
+poor balance
+poor feeding in infants
+poor hygiene
+preterm labor
+problems at work
+proctalgia fugax
+prognathism
+prolonged menstrual periods
+prosopagnosia
+protein in urine
+proteinuria
+psychological
+ptosis
+pulmonary
+pustules
+pyrexia
+pyrosis
+rapid shallow breathing
+rash
+rashes
+raynaud's phenomenon
+rectal bleeding
+rectal hemorrhage
+rectal incontinence
+rectal malodor
+rectal pain
+red spots on the skin
+red streaks on the skin
+remember normally
+repair of webbed fingers or toes
+restless leg syndrome
+retrograde ejaculation
+rib cage pain
+ringing in ears
+room spinning
+runny nose
+scaling skin
+sciatica
+scoliosis
+scrotal swelling
+see properly
+seizures
+self harm
+self-neglect
+separation anxiety disorder
+seperated sutures
+shaking hands
+shin splints
+shivering
+shock
+short of breath
+short stature
+shortness of breath
+shortness of breath on exertion
+shoulder pain
+shyness
+sick
+simian crease
+sinus infections
+sinusitis
+skeletal limb abnormalities
+skin abscess
+skin blushing/flushing
+skin redness
+skull fractures
+sleep normally
+sleep paralysis
+sleeping difficulty
+sleeplessness
+sleepwalking
+sleepy
+slow heart rate
+smell things normally
+sneezing
+snoring
+somnolence
+sore throat
+sore tongue
+sounds are too loud
+spasticity
+speak normally
+splenomegaly
+sprains & strains
+sputum production
+standing your ground with flat feet
+steatorrhea
+sternutation
+stiff neck
+stomach cramps
+stool color change
+stool texture change
+stop passing watery bowel actions
+stop scratching
+stop sweating
+stopped breathing
+strange behavior
+strangury
+stress incontinence
+stridor
+stupor
+suicidal behavior
+suicidal ideation
+suicide
+summer is so much better without the cigs.
+sunken fontanelles
+swallow normally
+swallowing difficulty
+sweats
+sweaty
+swelling
+swollen abdomen
+swollen ankles
+swollen eyes
+swollen feet
+swollen gums
+swollen joints
+swollen knee
+swollen lip
+swollen lymph nodes
+swollen testicles
+swollen tongue
+swollen tonsils
+syncope
+syndactyly
+tachycardia
+tachypnea
+taste properly
+teeth grinding
+temper tantrums
+tenderness
+tendinitis
+tenesmus
+testicle lump
+testicle pain
+testicular pain
+testicular swelling
+thirst
+thirsty
+thyroid nodule
+tic
+tingling
+tingling in feet
+tingling in hand
+tingling sensation in tongue
+tinnitus
+tired
+toe pain
+tongue inflammation
+tooth decay
+toothache
+toothaches
+tremor
+trismus-pseudocamptodactyly syndrome
+tunnel vision
+turning blue
+unable to concentrate
+unable to control emotions
+uncontrollable or involuntary movements
+uncontrolled or slow movement
+uncoordinated movement
+undescended testicle
+unintentional weight gain
+unsteady gait
+unusual behavior
+urge incontinence
+urgent urination
+urinary frequency
+urinary incontinence
+urinary retention
+urinary urgency
+urine bloody
+urine odor
+urologic
+urticaria
+vaginal
+vaginal bleeding
+vaginal bleeding between periods
+vaginal bleeding in early pregnancy
+vaginal bleeding in late pregnancy
+vaginal discharge
+vaginal dryness
+vaginal dryness alternative treatments
+vaginal itching
+vaginal odor
+vaginal pain
+vaginismus
+vertical ridges on fingernails
+vertical ridges on the fingernails
+vertigo
+vertigo and vertigo-associated disorders
+virilization
+vision loss
+visual impairment
+vocal outbursts
+vocal tics
+vomit
+vomiting
+vomiting blood
+walk normally
+watery eye
+watery eyes
+weak
+weak or absent pulse
+weakness
+webbing of the fingers or toes
+weight gain
+weight loss
+wheezing
+white tongue
+wrist pain
+write normally
+xanthoma
+yawning
+yellow eyes
+yellow skin

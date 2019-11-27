@@ -1,0 +1,133 @@
+aapp	Amino Acid, Peptide, or Protein	Others
+acab	Acquired Abnormality	Disease
+acty	Activity	Others
+aggp	Age Group	Others
+amas	Amino Acid Sequence	Others
+amph	Amphibian	Others
+anab	Anatomical Abnormality	Others
+anim	Animal	Others
+anst	Anatomical Structure	Anatomy
+antb	Antibiotic	Others
+arch	Archaeon	Others
+bacs	Biologically Active Substance	Others
+bact	Bacterium	Others
+bdsu	Body Substance	Anatomy
+bdsy	Body System	Anatomy
+bhvr	Behavior	Others
+biof	Biologic Function	Others
+bird	Bird	Others
+blor	Body Location or Region	Anatomy
+bmod	Biomedical Occupation or Discipline	Others
+bodm	Biomedical or Dental Material	Others
+bpoc	Body Part, Organ, or Organ Component	Anatomy
+bsoj	Body Space or Junction	Others
+carb	Carbohydrate	Others
+celc	Cell Component	Others
+celf	Cell Function	Others
+cell	Cell	Others
+cgab	Congenital Abnormality	Others
+chem	Chemical	Others
+chvf	Chemical Viewed Functionally	Others
+chvs	Chemical Viewed Structurally	Others
+clas	Classification	Others
+clna	Clinical Attribute	Others
+clnd	Clinical Drug	Anatomy
+cnce	Conceptual Entity	Others
+comd	Cell or Molecular Dysfunction	Others
+crbs	Carbohydrate Sequence	Others
+diap	Diagnostic Procedure	Procedures
+dora	Daily or Recreational Activity	Others
+drdd	Drug Delivery Device	Others
+dsyn	Disease or Syndrome	Disease
+edac	Educational Activity	Others
+eehu	Environmental Effect of Humans	Others
+eico	Eicosanoid	Others
+elii	Element, Ion, or Isotope	Others
+emod	Experimental Model of Disease	Others
+emst	Embryonic Structure	Others
+enty	Entity	Others
+enzy	Enzyme	Others
+euka	Eukaryote	Others
+evnt	Event	Others
+famg	Family Group	Others
+ffas	Fully Formed Anatomical Structure	Others
+fish	Fish	Others
+fndg	Finding	Others
+fngs	Fungus	Others
+food	Food	Others
+ftcn	Functional Concept	Others
+genf	Genetic Function	Others
+geoa	Geographic Area	Others
+gngm	Gene or Genome	Others
+gora	Governmental or Regulatory Activity	Others
+grpa	Group Attribute	Others
+grup	Group	Others
+hcpp	Human-caused Phenomenon or Process	Others
+hcro	Health Care Related Organization	Others
+hlca	Health Care Activity	Others
+hops	Hazardous or Poisonous Substance	Others
+horm	Hormone	Others
+humn	Human	Others
+idcn	Idea or Concept	Others
+imft	Immunologic Factor	Others
+inbe	Individual Behavior	Others
+inch	Inorganic Chemical	Others
+inpo	Injury or Poisoning	Symptom
+inpr	Intellectual Product	Others
+irda	Indicator, Reagent, or Diagnostic Acid	Others
+lang	Language	Others
+lbpr	Laboratory Procedure	Procedures
+lbtr	Laboratory or Test Result	Symptom
+lipd	Lipid	Others
+mamm	Mammal	Others
+mbrt	Molecular Biology Research Technique	Others
+mcha	Machine Activity	Others
+medd	Medical Device	Others
+menp	Mental Process	Others
+mnob	Manufactured Object	Others
+mobd	Mental or Behavioral Dysfunction	Others
+moft	Molecular Function	Others
+mosq	Molecular Sequence	Others
+neop	Neoplastic Process	Others
+nnon	Nucleic Acid, Nucleoside, or Nucleotide	Others
+npop	Natural Phenomenon or Process	Others
+nsba	Neuroreactive Substance or Biogenic Amine	Others
+nusq	Nucleotide Sequence	Others
+ocac	Occupational Activity	Others
+ocdi	Occupation or Discipline	Others
+opco	Organophosphorus Compound	Others
+orch	Organic Chemical	Others
+orga	Organism Attribute	Others
+orgf	Organism Function	Others
+orgm	Organism	Others
+orgt	Organization	Others
+ortf	Organ or Tissue Function	Others
+patf	Pathologic Function	Others
+phob	Physical Object	Others
+phpr	Phenomenon or Process	Others
+phsf	Physiologic Function	Symptom
+phsu	Pharmacologic Substance	Drugs
+plnt	Plant	Others
+podg	Patient or Disabled Group	Others
+popg	Population Group	Others
+prog	Professional or Occupational Group	Others
+pros	Professional Society	Others
+qlco	Qualitative Concept	Others
+qnco	Quantitative Concept	Others
+rcpt	Receptor	Others
+rept	Reptile	Others
+resa	Research Activity	Others
+resd	Research Device	Others
+rnlw	Regulation or Law	Others
+sbst	Substance	Others
+shro	Self-help or Relief Organization	Others
+socb	Social Behavior	Others
+sosy	Sign or Symptom	Symptom
+spco	Spatial Concept	Others
+strd	Steroid	Others
+tisu	Tissue	Others
+tmco	Temporal Concept	Others
+topp	Therapeutic or Preventive Procedure	Procedures
+virs	Virus	Others
+vita	Vitamin	Others
+vtbt	Vertebrate	Others
